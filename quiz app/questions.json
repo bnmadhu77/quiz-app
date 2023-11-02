@@ -1,0 +1,35 @@
+[
+    {
+        "question":"ur name",
+        "choice1":"mad",
+        "choice2":"dsa",
+        "choice3":"mas",
+        "choice4":"hsu",
+        "answer":1
+    },
+    {
+        "question":"ur age",
+        "choice1":"23",
+        "choice2":"22",
+        "choice3":"67",
+        "choice4":"55",
+        "answer":2
+    },
+    {
+        "question":"ur place",
+        "choice1":"blore",
+        "choice2":"dpur",
+        "choice3":"gour",
+        "choice4":"cpur",
+        "answer":4
+    },
+    {
+        "question":"ur dob",
+        "choice1":"12",
+        "choice2":"3",
+        "choice3":"18",
+        "choice4":"8",
+        "answer":3
+    }
+
+]
