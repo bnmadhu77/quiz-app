@@ -1,1 +1,2 @@
 # quiz-app
+"Welcome to our quiz app, a fun and educational project built with the Open Trivia Database API, HTML, CSS, and JavaScript. Test your knowledge on a wide range of topics with our interactive quiz platform, designed to challenge and entertain. Whether you're a trivia enthusiast or just looking for a way to learn something new, our app is here to provide an engaging and informative experience."
